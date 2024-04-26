@@ -1,7 +1,7 @@
 {
-  "name": "cli_lator",
+  "name": "myluck",
   "version": "1.0.0",
-  "description": "This is a simple command_line calculator made with TypeScript, Node and Inquirer",
+  "description": "This is a simple command_line number guessing game made with TypeScript, Node and Inquirer",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -11,7 +11,6 @@
   "author": "M.Ahmad",
   "license": "MIT",
   "dependencies": {
-    "cli_lator": "^1.0.0",
     "inquirer": "^9.2.19"
   },
   "devDependencies": {

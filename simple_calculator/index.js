@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer"; // import inquirer. First you need to download "npm i inquirer"
 const answer = await inquirer.prompt([
     {
